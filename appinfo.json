@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kmdailey76@gmail.com",
+    "longName": "Tutorial1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "EXAMPLE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_VGA_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Tutorial1",
+    "uuid": "55585ab2-aa60-467f-9629-fe2007b16af1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
