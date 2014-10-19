@@ -106,10 +106,7 @@
     text_layer_set_background_color(s_weather_layer, GColorClear);
     text_layer_set_text_color(s_weather_layer, GColorWhite);
     text_layer_set_text_alignment(s_weather_layer, GTextAlignmentCenter);
-    //text_layer_set_text(s_weather_layer, "Sara Smells");
-    //snprintf(weather_layer_buffer, sizeof(weather_layer_buffer), "%s, %s", temperature_buffer, conditions_buffer);
-    //text_layer_set_text(s_weather_layer, weather_layer_buffer);
-        
+            
     //apply to TextLayer
     text_layer_set_font(s_time_layer, s_time_font);
     text_layer_set_font(s_weather_layer, s_weather_font);
